@@ -1,5 +1,3 @@
-# Whiteteam
-
 ## Whiteteam Homepage
 
 ### About Whiteteam
@@ -13,7 +11,7 @@ Whiteteam is a team that making [a discord bot](https://discord.com/oauth2/autho
 
 
 ### Bot Source Codes
-Because of Running 24 hour, codes are in [replit](https://replit.com.)
+Because of Running 24 hour, codes are in [replit](https://replit.com.).
 - [WhiteBot](https://replit.com/@Whiteteam/WhiteBot)
 - [WhiteBot-Beta](https://replit.com/@Whiteteam/WhiteBot-Beta)
 
