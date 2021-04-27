@@ -7,7 +7,6 @@ Whiteteam은 [디스코드 챗봇](https://discord.com/oauth2/authorize?client_i
 - [Whitetiger](https://github.com/Whitetiger0423) - 팀장
 - [PArangSae](https://github.com/PArangSae)
 - [Seeun](https://github.com/entry0917)
-- [peanut](https://github.com/jjun4341)
 
 
 ### 봇 소스코드
